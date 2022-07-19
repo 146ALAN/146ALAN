@@ -1,0 +1,357 @@
+.main{
+   min-height: 100vh;
+   background-color: black;
+   
+}
+.search{
+
+   background-color: rgb(67, 8, 8);
+   width: 100%;
+   height: 40px;
+}
+.srch{
+  background-color: rgb(117, 48, 16);
+  margin-left: 900px;
+  margin-top: 9px;
+ }
+ button{
+   color: black;
+    background-color: rgb(117, 48, 16);
+}
+ .f1{
+   width: 100%;
+   height: 40px;
+   background-color: white;
+   margin-top: 14px;
+}
+ header nav{
+   float: right;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   flex-wrap: wrap;
+   margin-right: 125px;
+   margin-top: -3px;
+}
+nav ul{
+   margin-right: 30px;
+   min-width: 450px;
+}
+nav ul li{
+   list-style: none;
+   display: inline-block;
+   margin-left: 110px;
+}
+a{
+   text-decoration: none;
+   display: inline-block; 
+   color: black;
+   padding: 0px 5px;
+   text-transform: uppercase;
+   margin-left: 83px;
+}
+a:hover{
+  color: rgb(183, 67, 67);
+}
+.backimg{
+   background: url(./image/coffelogo/grinder-bag-coffee-beans.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 550px;
+   width: 100%;
+}
+.dummy1{
+   margin-top: 130px;
+}
+.ha1{
+   color:white;
+   margin-left: 766px;
+}
+.ha2{
+   color: white;
+   margin-left: 771px;
+   margin-top: -26px;
+}
+.hb1{
+   color: white;
+   margin-left: 697px;
+}
+.hp1{
+   color: white;
+   padding: 8px 18px;
+   width: 40%;
+   height: 60px;
+   margin-left: 676px;
+   margin-top: 19px;
+}
+.pic1{
+   background: url(./image/coffelogo/EASY.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 228px;
+   width: 20%;
+   margin-top: -370px;
+}
+video{
+   top: 0%;
+   left: 0%;
+   width: 100%;
+   height: 702px;
+   margin-top: -2px;
+}
+.s1{
+   color:white ;
+   margin-top: -687px;
+   margin-left: 550px;
+}
+.backimg1{
+    
+   width: 100%;
+   height: 800px;
+   margin-top: 645px;
+   background-image: url(./image/bkgrnd.jpg);
+   background-size: cover;
+}
+.head01{
+   margin-left: 565px;
+}
+.head02{
+   margin-top: 36px;
+   margin-left: 443px;
+}
+.head03{
+   margin-top: 15px;
+   margin-left: 428px;
+}
+.r1{
+   width: 100%;
+   height: 700px;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   margin-top: 2px;
+}
+.col{
+   width: 300px;
+   height: 425px;
+  margin-top: -106px;
+  border-radius: 10px;
+}
+img{
+   height: 50%;
+   width: 100%;
+   border-radius: 115px;
+}
+p{
+   color: black;
+}
+.img9{
+   color: black;
+   text-align: center;
+}
+h4{
+   color: black;
+}
+#bt1:hover{
+   background-color: white;
+   color: black;
+}
+#bt5{
+   border: 2px solid white;
+   background-color: black;
+   color: white;
+   margin-left: -96%;
+   display: flex;
+   margin-top: 55px;
+}
+#bt5:hover{
+   background-color: white;
+   color: black;
+}
+.img8{
+   width: 100%;
+   height: 350px;
+   border: 4px solid white;
+   background-image: url(./image/fresh3.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+}
+.img10{
+   width: 100%;
+   height: 350px;
+   background-color: black;
+   border: 2px solid white;
+}
+.great{
+   color: white;
+   margin-left: 103px;
+   margin-top: 112px;
+}
+.great1{
+   height: 20px;
+   width: 343px;
+   color: white;
+   margin-top: 19px;
+   margin-left: 106px;
+}
+#bt0{
+   border: 2px solid white;
+   background-color: black;
+   color: white;
+   margin-left: 250px;
+   display: flex;
+   margin-top: 121px;
+}
+#bt0:hover{
+   background-color: white;
+   color: black;
+}
+.img5{
+   background: url(./image/coffelogo/1595950.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 349px;
+   width: 50%;
+   margin-top: -322px;
+   margin-left: 624px;
+}
+.img11{
+   width: 100%;
+   height: 213px;
+   background-color: white;
+   margin-top: -255px;
+}
+.great2{
+   color: black;
+   margin-left: 796px;
+   margin-top: 397px;
+}
+.great3{
+   height: 20px;
+   width: 343px;
+   color: black;
+   margin-top: -5px;
+   margin-left: 798px;
+}
+#bt2{
+   border: 2px solid black;
+   background-color: white;
+   color: black;
+   margin-left: 900px;
+   display: flex;
+   margin-top: 142px;
+}
+#bt2:hover{
+   background-color: black;
+   color: white;
+}
+.img6{
+   background: url(./image/coffelogo/beans00.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 366px;
+   width: 50%;
+   margin-top: -364px;
+   margin-left: 2px;
+}
+.serve{
+   width: 100%;
+   height: 250px;
+   background-color: gray;
+}
+.serve1{
+   color: black;
+   margin-left: 550px;
+}
+.serve2{
+   color: black;
+   margin-left: 476px;
+}
+.serve3{
+   height: 20px;
+   width: 852px;
+   color: white;
+   margin-top: 19px;
+   margin-left: 205px;
+}
+.serve4{
+   height: 20px;
+   width: 852px;
+   color: white;
+   margin-top: 19px;
+   margin-left: 249px;
+}
+.serve5{
+   height: 20px;
+   width: 852px;
+   color: white;
+   margin-top: -15px;
+   margin-left: 452px;
+}
+.footer{
+   width: 100%;
+   height: 328px;
+   background-color: black;
+   margin-top: -4px;
+   
+   border: 4px solid white;
+}
+.cont2{
+   color: white;
+   margin-left: 578px;
+   margin-top: -2px;
+}
+.cont1{
+   color: white;
+   margin-left: 249px;
+   margin-top: -6px;
+}
+.footer1{
+   margin-top: 96px;
+}
+.pic10{
+   background: url(./image/coffelogo/EASY.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 248px;
+   width: 20%;
+   margin-top: -329px;
+}
+.pic9{
+   background: url(./image/coffelogo/HD-wallpaper-cup-with-coffee-pouring-coffee-good-morning-coffee-beans-coffee-cup-coffee.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 326px;
+   width: 50%;
+   margin-top: -248px;
+   margin-left: 621px;
+}
+.par9{
+   margin-top: -78px;
+   margin-left: 526px;
+   color: white;
+}
+.par10{
+   margin-left: 855px;
+   margin-top: 56px;
+   color: white;
+}
+.icon{
+   color: white;
+   margin-left: 1112px;
+   margin-top: -259px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
